@@ -1,4 +1,4 @@
-# huashi
+# init-vue
 
 ## Project setup
 ```
