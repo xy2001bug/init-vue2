@@ -1,6 +1,6 @@
 export default [
     {
-        path: '/home',
+        path: '/',
         name: 'home',
         component (resolve) {
             require(['@/views/pages/home'], resolve)

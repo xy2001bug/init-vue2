@@ -1,9 +1,6 @@
 <template>
   <div>
-      头部
-      <div>
-          eventBus的使用
-      </div>
+      右边的导航
   </div>
 </template>
 
